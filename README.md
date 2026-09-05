@@ -41,8 +41,6 @@ java-socket-client-server-lab/
 ├── src/
 │   ├── SocketServer.java
 │   └── SocketClient.java
-├── docs/
-│   └── lab2report.docx
 ├── .gitignore
 └── README.md
 ```
