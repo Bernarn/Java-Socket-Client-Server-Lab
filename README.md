@@ -146,15 +146,8 @@ Message: Hi Client exit
 | `ObjectOutputStream` | Writes serialized Java objects to the socket |
 | `InetAddress` | Resolves the host address used by the client |
 
-## Notes
-
-This repository is a cleaned, compile-ready version of the code shown in the original **Lab 2 - JavaSocket Report**. The original lab report is included in `docs/lab2report.docx` for reference.
 
 ## Author
 
 **Bernard Godonou**  
-Student ID: **669146**
 
-## Course artifact
-
-Lab 2 — Java Socket Client/Server Architecture

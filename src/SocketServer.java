@@ -4,13 +4,7 @@ import java.io.ObjectOutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/**
- * Simple TCP socket server for Lab 2.
- *
- * The server listens on port 9876, accepts one client request at a time,
- * reads a String, replies with "Hi Client <message>", and stops when the
- * client sends "exit".
- */
+
 public class SocketServer {
     private static final int PORT = 9876;
 

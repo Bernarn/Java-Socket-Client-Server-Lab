@@ -4,12 +4,7 @@ import java.io.ObjectOutputStream;
 import java.net.InetAddress;
 import java.net.Socket;
 
-/**
- * Simple TCP socket client for Lab 2.
- *
- * The client connects to localhost:9876 five times. It sends 0, 1, 2, 3,
- * and finally "exit", printing the server response after each request.
- */
+
 public class SocketClient {
     private static final int PORT = 9876;
     private static final int REQUEST_COUNT = 5;
